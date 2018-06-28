@@ -14,7 +14,7 @@ depends: [
   "topkg" {build & >= "0.9.1"}
   "result"
   "bos"
-  "cmdliner" {>= 1.0.2}
+  "cmdliner" {>= "1.0.2"}
  ]
 build:
 [[
